@@ -1,0 +1,4 @@
+github.com/zoha/go-log v0.0.0-20210707052335-4ff65a9ab5a4 h1:uHaOGPyGMBDe2vXcnENL7xvR+I/pCUz0CUdkrHsL9Jk=
+github.com/zoha/go-log v0.0.0-20210707052335-4ff65a9ab5a4/go.mod h1:qVYqOE3UdPRWYbD5crwLuuDctZxMk6wt6bmj9OqhWio=
+github.com/zoha/go-log v0.0.0-20210707075334-00768f8f7781 h1:zRw/rkPHTgeJfB4wZ0oLXRA+71fliT1LvRy//T5BHjA=
+github.com/zoha/go-log v0.0.0-20210707075334-00768f8f7781/go.mod h1:qVYqOE3UdPRWYbD5crwLuuDctZxMk6wt6bmj9OqhWio=
